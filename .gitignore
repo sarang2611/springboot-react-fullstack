@@ -13,3 +13,9 @@ dist/
 
 # Environment
 .env
+
+# Eclipse / STS
+.classpath
+.factorypath
+.project
+.settings/
